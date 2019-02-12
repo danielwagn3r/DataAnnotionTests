@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F520436-F9E1-456D-90DB-7CD617968EFD}</ProjectGuid>
+    <ProjectGuid>{ED96CE3E-46C8-496F-BD25-D6154352BA81}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NetFramework472</RootNamespace>
-    <AssemblyName>NetFramework472</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>NetFramework462</RootNamespace>
+    <AssemblyName>NetFramework462</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
